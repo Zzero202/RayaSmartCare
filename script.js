@@ -38,7 +38,7 @@ var subjectObject = {
         York: airConditional,
         TCL: airConditional,
         Haier: airConditional,
-        'General Electric': airConditional,
+        'General Electric ': airConditional,
         Nikai: airConditional,
         TCL: airConditional,
         Other: 'Other'
